@@ -1,2 +1,2 @@
 # portfolio
-My Portfolio Site I am using to keep a track of my WebDev learning progress
+A Portfolio Site I made to keep a track of my WebDev learning progress
