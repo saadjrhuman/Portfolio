@@ -1,0 +1,131 @@
+body {
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  font-family: "Barlow Semi Condensed", sans-serif;
+  color: #3b6978;
+}
+.fat-cloud {
+  width: 20%;
+}
+h1 {
+  font-family: "Sofia", cursive;
+  color: #204051;
+  font-size: 4.125em;
+  margin-bottom: 2px;
+}
+h2 {
+  font-family: "Signika", sans-serif;
+  color: #204051;
+  font-size: 2rem;
+}
+h3 {
+  font-family: "Signika", sans-serif;
+  color: #204051;
+}
+.top-container {
+  background-color: #cae8d5;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 150px;
+}
+.top-cloud {
+  position: relative;
+  top: 50px;
+  left: 330px;
+}
+.title {
+  position: relative;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+  color: #84a9ac;
+}
+#subtitle {
+  font-size: 2.5rem;
+  font-family: "Signika", sans-serif;
+  margin-top: 2px;
+}
+.logo {
+  width: 12.5rem;
+}
+.skills {
+  width: 50%;
+  margin: 100px auto 100px auto;
+}
+.skill-row {
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.skill-image {
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+}
+.code {
+  float: right;
+  margin-right: 0px;
+  margin-left: 30px;
+}
+
+.profile {
+  width: 30%;
+  line-height: 2;
+  margin: 100px auto 100px auto;
+}
+.contact-me {
+  line-height: 2;
+  margin: 100px auto 100px auto;
+}
+.BUTTON_WOQ {
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #ffffff;
+  font-family: "Signika", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  padding: 10px;
+  background-color: #3b6978;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  line-height: 1;
+}
+
+.BUTTON_WOQ:hover {
+  background: #204051;
+  border: solid #ffffff 0px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+.bottom-container {
+  background-color: #cae8d5;
+  padding: 40px;
+}
+.footer-link {
+  text-decoration: none;
+  color: #204051;
+  font-weight: bold;
+  position: relative;
+  bottom: 20px;
+}
+.twt {
+  position: relative;
+  left: 10px;
+}
+.ins {
+  position: relative;
+  right: 10px;
+}
+a:hover {
+  color: whitesmoke;
+}
